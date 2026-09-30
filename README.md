@@ -222,19 +222,6 @@ Untuk mengecek analisis kode Dart, jalankan:
 flutter analyze
 ```
 
-## Screenshot Aplikasi
-
-Tambahkan screenshot aplikasi pada bagian ini apabila diperlukan.
-
-| Fitur | Screenshot |
-| --- | --- |
-| Halaman daftar mahasiswa | `[Tambahkan screenshot di sini]` |
-| Form tambah mahasiswa | `[Tambahkan screenshot di sini]` |
-| Validasi form | `[Tambahkan screenshot di sini]` |
-| Detail mahasiswa | `[Tambahkan screenshot di sini]` |
-| Form edit mahasiswa | `[Tambahkan screenshot di sini]` |
-| Dialog hapus mahasiswa | `[Tambahkan screenshot di sini]` |
-| Pencarian mahasiswa | `[Tambahkan screenshot di sini]` |
 
 ## Catatan
 
